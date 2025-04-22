@@ -3,18 +3,31 @@
   {
    "cell_type": "code",
    "execution_count": null,
+   "id": "b63ec549",
    "metadata": {},
    "outputs": [],
-   "source": [
-    "x=2\n",
-    "y=2\n",
-    "y+"
-   ]
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5393a257",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "05fc78c7",
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
   "kernelspec": {
-   "display_name": "base",
+   "display_name": "Python 3 (ipykernel)",
    "language": "python",
    "name": "python3"
   },
