@@ -1,0 +1,7 @@
+order_id,customer_name,email,product,quantity,price,order_date,region
+1007,Emma Stone,emma.stone@company.com,Monitor,1,199.99,2023-10-20,Australia
+1008,TOM Hanks,tom@invalid.com,smartphone,10,-50.00,2023/10/21,Asia
+1009,,chris@chris.com,Webcam,2,39.99,10-22-2023,
+1010,Lisa Ray,lisa.ray@gmail.com,Laptop,4,999.99,2023-10-23,europe
+1011,David Lee,david.lee@company,Charger,,25.00,2023-10-24,Africa
+1012,Susan Kim,susan@kim,Tablet,3,499.99,2023-10-25,asia

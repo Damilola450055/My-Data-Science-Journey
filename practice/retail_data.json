@@ -1,0 +1,15 @@
+[
+    {"order_id": 1001, "customer_name": "John Doe", "email": "john.doe@gmail.com", "product": "Laptop", "quantity": 2, "price": 999.99, "order_date": "2023-10-15", "region": "North America"},
+    {"order_id": 1002, "customer_name": null, "email": "sarah.connor@invalid", "product": "Smartphone", "quantity": -1, "price": 499.99, "order_date": "15/10/2023", "region": "asia"},
+    {"order_id": 1003, "customer_name": "Mike Smith", "email": "mike@company", "product": "Tablet", "quantity": 3, "price": null, "order_date": "2023-10-16T12:00", "region": "Europe"},
+    {"order_id": 1001, "customer_name": "Jane Roe", "email": "jane@roe.com", "product": "Laptop", "quantity": 1, "price": 999.99, "order_date": "2023/10/17", "region": "North america"},
+    {"order_id": 1004, "customer_name": "alice brown", "email": "alice.brown@", "product": "Headphones", "quantity": 5, "price": 29.99, "order_date": "invalid_date", "region": "SOUTH AMERICA"},
+    {"order_id": 1005, "customer_name": "Bob Wilson", "email": "bob.wilson@gmail.com", "product": "Mouse", "quantity": 0, "price": 15.00, "order_date": "2023-10-18", "region": null},
+    {"order_id": 1006, "customer_name": "John Doe", "email": "john.doe@gmail.com", "product": "Keyboard", "quantity": 2, "price": 49.99, "order_date": "2023-10-19", "region": "north America"},
+    {"order_id": 1007, "customer_name": "Emma Stone", "email": "emma.stone@company.com", "product": "Monitor", "quantity": 1, "price": 199.99, "order_date": "2023-10-20", "region": "Australia"},
+    {"order_id": 1008, "customer_name": "TOM Hanks", "email": "tom@invalid.com", "product": "smartphone", "quantity": 10, "price": -50.00, "order_date": "2023/10/21", "region": "Asia"},
+    {"order_id": 1009, "customer_name": null, "email": "chris@chris.com", "product": "Webcam", "quantity": 2, "price": 39.99, "order_date": "10-22-2023", "region": null},
+    {"order_id": 1010, "customer_name": "Lisa Ray", "email": "lisa.ray@gmail.com", "product": "Laptop", "quantity": 4, "price": 999.99, "order_date": "2023-10-23", "region": "europe"},
+    {"order_id": 1011, "customer_name": "David Lee", "email": "david.lee@company", "product": "Charger", "quantity": null, "price": 25.00, "order_date": "2023-10-24", "region": "Africa"},
+    {"order_id": 1012, "customer_name": "Susan Kim", "email": "susan@kim", "product": "Tablet", "quantity": 3, "price": 499.99, "order_date": "2023- Hawkins": "2023-10-25", "region": "asia"}
+]

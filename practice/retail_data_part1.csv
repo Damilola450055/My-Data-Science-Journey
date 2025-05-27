@@ -1,0 +1,8 @@
+order_id,customer_name,email,product,quantity,price,order_date,region
+1001,John Doe,john.doe@gmail.com,Laptop,2,999.99,2023-10-15,North America
+1002,,sarah.connor@invalid,Smartphone,-1,499.99,15/10/2023,asia
+1003,Mike Smith,mike@company,Tablet,3,,2023-10-16T12:00,Europe
+1001,Jane Roe,jane@roe.com,Laptop,1,999.99,2023/10/17,North america
+1004,alice brown,alice.brown@,Headphones,5,29.99,invalid_date,SOUTH AMERICA
+1005,Bob Wilson,bob.wilson@gmail.com,Mouse,0,15.00,2023-10-18,
+1006,John Doe,john.doe@gmail.com,Keyboard,2,49.99,2023-10-19,north America

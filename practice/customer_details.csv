@@ -1,0 +1,11 @@
+email,customer_id,loyalty_points
+john.doe@gmail.com,2001,150
+sarah.connor@invalid,2002,50
+mike@company,2003,0
+jane@roe.com,2004,200
+alice.brown@,2005,10
+bob.wilson@gmail.com,2006,75
+emma.stone@company.com,2007,300
+tom@invalid.com,2008,25
+chris@chris.com,2009,100
+lisa.ray@gmail.com,2010,250
